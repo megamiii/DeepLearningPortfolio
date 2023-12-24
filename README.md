@@ -46,3 +46,28 @@ Insights into tuning hyperparameters to enhance model performance, accompanied b
 - **Visualizations:**
 Includes visualizations of training progress, feature maps, and model predictions to offer a clear understanding of how CNNs process and interpret image data.
 
+## 3. Variational Autoencoder (VAE)
+
+The "Variational Autoencoder (VAE)" directory of this repository is dedicated to the exploration and implementation of Variational Autoencoders, a class of generative models. This directory includes the following Jupyter notebook:
+
+### 3.1. VAE.ipynb
+
+This notebook serves as a deep dive into the world of Variational Autoencoders, utilizing them for generative tasks. Key features of this notebook include:
+
+- **Fundamentals of VAEs:**
+A comprehensive introduction to the concepts and mathematical foundations underlying Variational Autoencoders.
+
+- **Implementation in Python:**
+Step-by-step implementation of a VAE, showcasing how these models are built from scratch.
+
+- **Training and Testing:**
+Detailed explanation of the training process, including the optimization of the variational lower bound.
+
+- **Generative Modeling:**
+Demonstrations of VAEs in generating new data, highlighting their capability as generative models.
+
+- **Visualization of Results:**
+Includes visualizations of the latent space and the generated samples to provide insights into the model's performance and capabilities.
+
+- **Applications:**
+Exploration of various applications of VAEs, such as image generation and reconstruction, showcasing their versatility.
