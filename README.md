@@ -93,9 +93,27 @@ Detailed TensorFlow implementation of a GAN model.
 
 *to be updated*
 
-## 7. Reinforcement Learning (Deep Q-Learning (DQN) and Vanilla Policy Gradient (VPG))
+## 7. Reinforcement Learning
 
-*to be updated*
+This directory focuses on Reinforcement Learning (RL), a crucial area of machine learning where agents learn to make decisions by interacting with an environment. It includes two comprehensive Jupyter notebooks demonstrating key RL algorithms applied to different simulation environments.
+
+### 7.1. Vanilla Policy Gradient (VPG) for Cartpole
+- **Filename:** `cartpole_vpg.ipynb`
+- **Description:**
+- This notebook provides an implementation of the Vanilla Policy Gradient (VPG) algorithm, applied to the classic Cartpole balancing problem.
+- Key Learning Outcomes:
+    - Understanding the fundamentals of policy-based reinforcement learning.
+    - Hands-on experience with implementing VPG using PyTorch.
+    - Visualization and analysis of the agent's performance in maintaining the pole's balance.
+
+### 7.2. Deep Q-Network (DQN) for Lunar Lander
+- **Filename:** `lunarlander_dqn.ipynb`
+- **Description:**
+- Explore the Deep Q-Network (DQN) algorithm, a value-based method in RL, applied to the Lunar Lander environment from OpenAI Gym.
+- Key Learning Outcomes:
+    - Detailed walkthrough of setting up and training a DQN.
+    - Strategies for optimizing the learning process.
+    - Insights into the agent's decision-making process in a more complex environment compared to Cartpole.
 
 ## 8. Mixup (Vanilla classifier, Input mixup, Manifold mixup, CutMix)
 
