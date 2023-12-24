@@ -1,5 +1,5 @@
 # DeepLearningPortfolio
-DeepLearningPortfolio is a comprehensive collection of Jupyter notebooks showcasing my deep learning projects and experiments. It includes implementations and explorations of advanced image augmentation techniques, mixup methods like Input Mixup, CutMix, Manifold Mixup, as well as analyses of model robustness and calibration.
+DeepLearningPortfolio is a comprehensive collection of Jupyter notebooks showcasing my deep learning projects and experiments.
 
 ## 1. Softmax Loss
 The "Softmax Loss" directory in this repository contains two Jupyter notebooks that focus on the implementation and application of the softmax loss function in neural networks. Here's a brief overview of each notebook:
@@ -71,3 +71,32 @@ Includes visualizations of the latent space and the generated samples to provide
 
 - **Applications:**
 Exploration of various applications of VAEs, such as image generation and reconstruction, showcasing their versatility.
+
+## 4. Generative Adversarial Networks (GANs)
+
+This directory is dedicated to exploring Generative Adversarial Networks (GANs), a groundbreaking and widely popular approach in generative modeling. The directory contains the following Jupyter notebook:
+
+### 4.1. Generative_Adversarial_Networks_TF.ipynb
+This notebook offers a comprehensive guide to understanding and implementing GANs using TensorFlow. It is designed to provide both theoretical insights and practical coding experience. Key highlights of the notebook include:
+
+- A thorough introduction to the GAN architecture and its working principles.
+Detailed TensorFlow implementation of a GAN model.
+- Exploration of the training dynamics and challenges in training GANs.
+- Visualization of generated outputs to demonstrate the effectiveness of the model.
+- Discussion on various applications of GANs in different domains.
+
+## 5. Adversarial Attacks (White Box Attack and Black Box Attack)
+
+*to be updated*
+
+## 6. KL Divergence
+
+*to be updated*
+
+## 7. Reinforcement Learning (Deep Q-Learning (DQN) and Vanilla Policy Gradient (VPG))
+
+*to be updated*
+
+## 8. Mixup (Vanilla classifier, Input mixup, Manifold mixup, CutMix)
+
+*to be updated*
